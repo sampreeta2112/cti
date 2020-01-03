@@ -1,0 +1,2 @@
+[28-Nov-2019 12:37:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitw18/public_html/staging-projects/ii/DE_operator/canvasDraw/db.php on line 6
+[28-Nov-2019 12:37:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitw18/public_html/staging-projects/ii/DE_operator/canvasDraw/db.php on line 6
