@@ -1,0 +1,36 @@
+
+
+/* Listing Page CSS */
+
+    	.row{
+		    padding: 0 10px;
+		}
+		.clickable{
+		    cursor: pointer;   
+		}
+		
+		.panel-title{
+			font-size: 18px;
+		}
+		
+		.panel-heading{
+			padding:0;
+		}
+
+		.panel-heading div {
+			margin-top: -18px;
+			font-size: 15px;
+		}
+		.panel-heading div span{
+			margin-left:5px;
+		}
+		.panel-body{
+			display: none;
+			padding-bottom:0;
+		}
+		#dev-table{
+			margin-top:10px;
+		}
+
+
+/* Listing Page CSS Ends */
